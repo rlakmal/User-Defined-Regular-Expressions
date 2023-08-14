@@ -1,0 +1,16 @@
+
+text7.txt Searching pattern is "riya$"
+	found position is 84 to 87 in the following text line
+	which are situated next to one another. These are Anuradhapura, Polonnaruwa and Sigiriya. 
+
+	found position is 60 to 63 in the following text line
+	from the smallest to the ones that are much bigger. But Sigiriya was the highlight of the Sri Lankan culture for me.
+
+	found position is 4 to 7 in the following text line
+	found position is 100 to 103 in the following text line
+	Sigiriya (or Sinhagiri) is an ancient rock fortress located near the town of Dambulla. The name Sigiriya refers to 
+
+	found position is 126 to 129 in the following text line
+	a site of historical and archaeological significance that is nearly 200 metres high. If you ask anyone in Sri Lanka about Sigiriya,
+
+Number of matches found : 5

@@ -1,0 +1,21 @@
+
+text1.txt Searching pattern is "tr.ck"
+	found position is 20 to 24 in the following text line
+	The word technology track and its uses have 
+
+	found position is 53 to 57 in the following text line
+	and with time, it has continued to evolve ever since tricky. 
+
+	found position is 17 to 21 in the following text line
+	We are living in truck a world driven by technology. 
+
+	found position is 0 to 4 in the following text line
+	trtck gThe advancement of technology has played an 
+
+	found position is 28 to 32 in the following text line
+	along with cultural changes trick Technology provides 
+
+	found position is 75 to 79 in the following text line
+	innovative ways of doing work through various smart and innovative means   trock.
+
+Number of matches found : 6
